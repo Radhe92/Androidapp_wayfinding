@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "883214782184",
+    "firebase_url": "https://trinity-app-2de04.firebaseio.com",
+    "project_id": "trinity-app-2de04",
+    "storage_bucket": "trinity-app-2de04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883214782184:android:b569a8c8d19c56fe",
+        "android_client_info": {
+          "package_name": "com.example.radheshyamyadav.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883214782184-0uihhs7840mci8sm47oeqokpkbjqfrr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0oB_Q2It5L6nWkqWOtimkX5mH00HW8Vo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
